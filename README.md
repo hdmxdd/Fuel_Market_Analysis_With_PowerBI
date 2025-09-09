@@ -32,7 +32,6 @@ Through careful data analysis, the project aims to trace the trajectory of fuel 
 Fuel Market Analysis Report
 ## Visualization Tools
 Tool used🛠️: Power BI
-Data Set Used: FP20 Analytics March 2024
 ## Conclusion
 This project provided valuable insights into fuel price trends across Argentina, highlighting the factors influencing price fluctuations over time. By analyzing data from various sources, we were able to:
 
